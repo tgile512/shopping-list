@@ -1,3 +1,5 @@
 - Bacon
 - Eggs
 - Xbox
+- Bread
+- Milk
